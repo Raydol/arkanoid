@@ -20,7 +20,7 @@ public class Breakout extends Sprite {
             "assets/img/breakout_big.png",
         });
         // cambiar y terminar
-        setX(300);
+        setX(220);
         setY(570);
     }
     
